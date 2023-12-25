@@ -19,7 +19,7 @@
 
   :arrow_forward: <a href="https://drive.google.com/file/d/1yIun2RrQFBjiE36vtyna9Jsmwm0Pzo4P/view?usp=sharing" target="_blank"><b>TimeWise requirements and Use Cases</b></a>
 
-  :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1NIFySyAS5jBQoeWDkj3XdwInfrzzsBmLjPYBg6lWvTQ/edit?usp=sharing" target="_blank"><b>Test cases and Bug Tracker based on Software Requirements and Use Cases.</b></a>
+  :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1NIFySyAS5jBQoeWDkj3XdwInfrzzsBmLjPYBg6lWvTQ/edit?usp=sharing" target="_blank"><b>Test cases and Bug report based on Software Requirements and Use Cases.</b></a>
   
 
 
