@@ -24,3 +24,6 @@
 
 
 #### Bug reports
+
+#### API requests with Postman
+:arrow_forward: <a href="TimeWise API.postman_collection.json" target="_blank"><b>TimeWise API Postman collection</b></a>
