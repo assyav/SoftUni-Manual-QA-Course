@@ -12,7 +12,7 @@
 
 ## Certificates
 
-## My projects
+## Examples of my work (exercises during the course and homework)
 
 #### Test case examples
 *Test environment:* <a href="http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/" target="_blank">TimeWise - web application</a>
