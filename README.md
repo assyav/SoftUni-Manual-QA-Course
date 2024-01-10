@@ -24,8 +24,8 @@
 
 :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1NIFySyAS5jBQoeWDkj3XdwInfrzzsBmLjPYBg6lWvTQ/edit?usp=sharing" target="_blank"><b>Test cases and Bug report based on Software Requirements and Use Cases.</b></a>
 
-#### Test Techniques (Equivalence Partitioning / Boundary Value Analysis, Pairwise Testing, Decision Table, State Transition)
-:arrow_forward: <a href="https://drive.google.com/file/d/1VBxcpYaeExKKM0BAaqNcwEh5jQ2fIXu2/view?usp=sharing" target="_blank"><b>Test Techniques Tasks</b></a>\
+#### Test Techniques (Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Table, State Transition)
+
 :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1x4Faka2gSz_M0Zv1cYrAsXh09vbgxd6S4LzmO-AvWxc/edit?usp=sharing" target="_blank"><b>Test Techniques Exercise Solution</b></a>
 
 #### Bug reports
