@@ -9,7 +9,10 @@
 * 
 
 ## Courses
-
+* SoftUni - QA Basics - June 2023
+* SoftUni - Software Technologies - September 2023
+* SoftUni - QA Fundamentals and Manual Testing - October 2023
+* SoftUni - Programming-Fundamentals-and-Unit-Testing - Ongoing
 ## Certificates
 
 ## Examples of my work
