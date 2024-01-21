@@ -2,22 +2,37 @@
 
 ## About me
 
-## Tools
+## Tools :wrench:
+* Jira
+* TestRail
+* Trello
 * GitHub
+* Postman
+* Visual Studio Code
 
-## Tech skills
+
+## Tech skills :computer:
+* SQL
+* Rest API testing
+* Creating test cases
+* Reporting bugs
+* Creating bug reports
+* Learning C# at the moment
+* Java basics
+* Basic HTML and CSS
+* DevTools
+* MySQL
 * 
 
-## Courses
+## Courses :notebook:
 * SoftUni - QA Basics - June 2023
 * SoftUni - Software Technologies - September 2023
 * SoftUni - QA Fundamentals and Manual Testing - October 2023
 * SoftUni - Programming-Fundamentals-and-Unit-Testing - Ongoing
-## Certificates
+  
+## Certificates :trophy:
 
-## Examples of my work
-
-#### Exercises during the course and homework
+## Exercises during the course and homework :microscope:
 #### Test Management and Issue Tracking
 *1. Test environment:* TaskBoard - web application.
 
@@ -35,3 +50,7 @@
 
 #### API requests with Postman
 :arrow_forward: <a href="TimeWise API.postman_collection.json" target="_blank"><b>TimeWise API Postman collection</b></a>
+
+#### C# basics
+:arrow_forward: <a href="https://github.com/assyav/SoftUni-Course-Programming-Fundamentals-with-CSharp-and-Unit-Testing" target="_blank"><b>Programming Fundamentals with C#</b></a>
+
