@@ -17,12 +17,11 @@
 * Creating test cases
 * Reporting bugs
 * Creating bug reports
-* Learning C# at the moment
 * Java basics
 * Basic HTML and CSS
 * DevTools
 * MySQL
-* 
+* Learning C# at the moment
 
 ## Courses :notebook:
 * SoftUni - QA Basics - June 2023
@@ -31,6 +30,9 @@
 * SoftUni - Programming-Fundamentals-and-Unit-Testing - Ongoing
   
 ## Certificates :trophy:
+* <a href="https://softuni.bg/certificates/details/177434/2d1ee2e3" target="_blank"><b>QA Basics - June 2023</b></a>
+* <a href="https://softuni.bg/certificates/details/191773/79caa0c1" target="_blank"><b>Software Technologies - September 2023</b></a>
+* <a href="https://softuni.bg/certificates/details/200719/4a779839" target="_blank"><b>QA Fundamentals and Manual Testing - October 2023</b></a>
 
 ## Exercises during the course and homework :microscope:
 #### Test Management and Issue Tracking
