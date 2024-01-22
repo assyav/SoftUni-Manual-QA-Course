@@ -23,9 +23,9 @@
 * Learning C# at the moment
 
 ## Courses and Certificates
-* SoftUni - QA Basics - June 2023
-* SoftUni - Software Technologies - September 2023
-* SoftUni - QA Fundamentals and Manual Testing - October 2023
+* SoftUni - QA Basics - June 2023 <a href="https://softuni.bg/certificates/details/177434/2d1ee2e3" target="_blank"><b>(certified)</b></a>
+* SoftUni - Software Technologies - September 2023  <a href="https://softuni.bg/certificates/details/200719/4a779839"><b>(certified)</b></a>
+* SoftUni - QA Fundamentals and Manual Testing - October 2023 <a href="https://softuni.bg/certificates/details/191773/79caa0c1" target="_blank"><b>(certified)</b></a>
 * SoftUni - Programming-Fundamentals-and-Unit-Testing - Ongoing
   
 
