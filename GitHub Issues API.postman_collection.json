@@ -1,0 +1,157 @@
+{
+	"info": {
+		"_postman_id": "589ed7d1-73d2-4c21-8a54-3c81a7d0f6ec",
+		"name": "GitHub Issues API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "29306006"
+	},
+	"item": [
+		{
+			"name": "Retrieve All Issues from Repo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://api.github.com/repos/assyav/postman/issues"
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve Issue by Number",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://api.github.com/repos/assyav/postman/issues/2"
+			},
+			"response": []
+		},
+		{
+			"name": "Create a New Issue",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "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"
+					}
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Missing [Submit] button\",\r\n    \"body\": \"I'm having a problem with this.\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://api.github.com/repos/assyav/postman/issues"
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve All Labels for Issue",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://api.github.com/repos/assyav/postman/issues/3/labels"
+			},
+			"response": []
+		},
+		{
+			"name": "Create a New Issue with Labels",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "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"
+					}
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"My forth issue from Postman\",\r\n    \"body\": \"Test\",\r\n    \"labels\": [\r\n        \"feature\",\r\n        \"client\"\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://api.github.com/repos/assyav/postman/issues"
+			},
+			"response": []
+		},
+		{
+			"name": "Edit Existing Issue",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "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"
+					}
+				},
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Edited bug (new title)\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://api.github.com/repos/assyav/postman/issues/4"
+			},
+			"response": []
+		},
+		{
+			"name": "Close Existing Issue",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "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"
+					}
+				},
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"state\": \"closed\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://api.github.com/repos/assyav/postman/issues/2"
+			},
+			"response": []
+		},
+		{
+			"name": "Create a Comment for Issue",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "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"
+					}
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"body\": \"This is a comment\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://api.github.com/repos/assyav/postman/issues/1/comments"
+			},
+			"response": []
+		}
+	]
+}

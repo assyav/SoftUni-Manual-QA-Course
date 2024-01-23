@@ -48,7 +48,7 @@ Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Ta
 #### Bug reports
 
 #### API requests with Postman
-:arrow_forward: <a href="TimeWise API.postman_collection.json" target="_blank"><b>TimeWise API Postman collection</b></a>
+:arrow_forward: <a href="TimeWise API.postman_collection.json" target="_blank"><b>TimeWise API - Postman collection</b></a>
 
 #### C# basics
 :arrow_forward: <a href="https://github.com/assyav/SoftUni-Course-Programming-Fundamentals-with-CSharp-and-Unit-Testing" target="_blank"><b>Programming Fundamentals with C#</b></a>
