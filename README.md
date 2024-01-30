@@ -32,11 +32,11 @@
 ## Exercises during the course and homework 
 
 #### Test Management and Issue Tracking
-*1. TaskBoard - web application.
+1. TaskBoard - web application.
 
 <a href="https://docs.google.com/spreadsheets/d/1CVZMttH8TyY19V9aop1ktrSvcpVCSERQ7jLr3dM9_80/edit?usp=sharing" target="_blank"><b>Test cases based on Software Requirements Specification in TestRail.</b></a>
 
-*2. TimeWise - web application.
+2. TimeWise - web application.
 
 <a href="https://docs.google.com/spreadsheets/d/1NIFySyAS5jBQoeWDkj3XdwInfrzzsBmLjPYBg6lWvTQ/edit?usp=sharing" target="_blank"><b>Test cases and Bug report based on Software Requirements and Use Cases.</b></a>
 
@@ -46,7 +46,7 @@ Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Ta
 <a href="https://docs.google.com/spreadsheets/d/1x4Faka2gSz_M0Zv1cYrAsXh09vbgxd6S4LzmO-AvWxc/edit?usp=sharing" target="_blank"><b>Test Techniques Exercise Solution</b></a>
 
 #### Bug reports and work in Jira
-*Registration form testing:
+Registration form testing:
 * <a href="https://drive.google.com/file/d/1GMA22qOdHCKHEaIr1DRQ5tbzE_CDcVTJ/view?usp=sharing" target="_blank"><b>Bug #1</b></a>
 * <a href="https://drive.google.com/file/d/1SBwDIQIKUnbK9ICAab60u1K9Y8tTwtTW/view?usp=sharing" target="_blank"><b>Bug #2</b></a>
 * <a href="https://drive.google.com/file/d/1sh61EqAJA5AmcB1l8wL564bwmmos81M1/view?usp=sharing" target="_blank"><b>Bug #3</b></a>
