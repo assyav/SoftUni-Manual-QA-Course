@@ -46,6 +46,7 @@ Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Ta
 <a href="https://docs.google.com/spreadsheets/d/1x4Faka2gSz_M0Zv1cYrAsXh09vbgxd6S4LzmO-AvWxc/edit?usp=sharing" target="_blank"><b>Test Techniques Exercise Solution</b></a>
 
 #### Bug reports and work in Jira
+<a href="https://github.com/assyav/portfolio/tree/main/Bug%20reports_Jira" target="_blank"><b>Registration form testing</b></a>
 
 #### API requests with Postman
 <a href="TimeWise API.postman_collection.json" target="_blank"><b>TimeWise API - Postman collection</b></a>  
