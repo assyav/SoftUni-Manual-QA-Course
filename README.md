@@ -2,6 +2,7 @@
 
 ## About me
 
+
 ## Tools 
 * Jira
 * TestRail
@@ -32,11 +33,7 @@
 ## Exercises during the course and homework 
 
 #### Test Management and Issue Tracking
-1. TaskBoard - web application.
-
-<a href="https://docs.google.com/spreadsheets/d/1CVZMttH8TyY19V9aop1ktrSvcpVCSERQ7jLr3dM9_80/edit?usp=sharing" target="_blank"><b>Test cases based on Software Requirements Specification in TestRail.</b></a>
-
-2. TimeWise - web application.
+* TimeWise - web application.
 
 <a href="https://docs.google.com/spreadsheets/d/1OIxJNMhB-rn669_BnGjyg54Jh8rfV-mG1g54FJ_nEfk/edit?usp=sharing" target="_blank"><b>Test cases and Bug report based on Software Requirements and Use Cases.</b></a>
 
