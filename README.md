@@ -4,7 +4,7 @@
 #### Test Management and Issue Tracking
 * TimeWise - web application.
 
-<a href="https://docs.google.com/spreadsheets/d/1OIxJNMhB-rn669_BnGjyg54Jh8rfV-mG1g54FJ_nEfk/edit?usp=sharing" target="_blank"><b>Test cases and Bug report based on Software Requirements and Use Cases.</b></a>
+<a href="https://docs.google.com/spreadsheets/d/1OIxJNMhB-rn669_BnGjyg54Jh8rfV-mG1g54FJ_nEfk/edit?usp=sharing" target="_blank"><b>Test cases and Bug report based on Software Requirements and Use Cases</b></a>
 
 #### Test Techniques 
 Equivalence Partitioning, Boundary Value Analysis, Pairwise Testing, Decision Table, State Transition.
